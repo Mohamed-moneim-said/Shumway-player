@@ -36,4 +36,5 @@ Use a web server to view the created above page.
 This is a pre-built version of the Shumway source code.
 
 See also https://github.com/mozilla/shumway
-©mozilla
+
+All rights saved to mozilla
