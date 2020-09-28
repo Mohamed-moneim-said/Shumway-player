@@ -1,6 +1,9 @@
 # Shumway player
+Shumway is a Flash VM and runtime written in JavaScript
 ## how to use Shumway player
-Create a web page (e.g. demo.html) that includes shuobject.js:
+First download clone project using this link "https://github.com/Mohamed-moneim-said/Shumway-player.git" and unarchive file
+
+create a web page (e.g. demo.html) that includes shuobject.js:
 
     <script src='./bower_components/shumway-dist/shuobject.js'></script>
 and, in a JavaScript, instantiate SWF file viewer similar to swfobject:
@@ -32,7 +35,7 @@ Also add demo.swf file (e.g. from http://mozilla.github.io/shumway/demo.swf)
 
 Viewing a SWF
 Use a web server to view the created above page.
-
+## Copyrights
 This is a pre-built version of the Shumway source code.
 
 See also https://github.com/mozilla/shumway
